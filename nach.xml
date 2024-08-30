@@ -24,16 +24,16 @@
 			<link>https://media.ou.org/nach/joshua/joshua_1.mp3</link>
 			
 			<description><![CDATA[Joshua chapter 1]]></description>
-			<guid>Fri, 30 Aug 2024 00:00:00 GMT</guid>
-			
+			<guid>joshua01</guid>
+			<pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title><![CDATA[Joshua 2]]></title>
 			<link>https://media.ou.org/nach/joshua/joshua_2.mp3</link>
 			
 			<description><![CDATA[Joshua chapter 2]]></description>
-			<guid>Sat, 31 Aug 2024 00:00:00 GMT</guid>
-			
+			<guid>joshua02</guid>
+			<pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
